@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Arne Lüllmann
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Kontakt
 &mdash;
-this site is [open source]({{ site.source_link }})
+Moin!
 
